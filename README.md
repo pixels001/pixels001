@@ -23,4 +23,4 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
-  ![BootStrap] https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap
+  ![BootStrap] (https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
