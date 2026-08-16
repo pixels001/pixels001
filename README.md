@@ -62,7 +62,7 @@ I'm interested in:
 |---|---|
 | ISO/IEC 27001 Provisional Lead Auditor | ✅ Obtained |
 | ISO/IEC 27001 Provisional Lead Implementer | ✅ Obtained |
-| ISO/IEC 27005 Risk Manager | 🔄 In preparation |
+| ISO/IEC 27005 Provisional Risk Manager | ✅ Obtained |
 
 ---
 
