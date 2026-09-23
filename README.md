@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Final-year **Cybersecurity Engineering** student at **TEK-UP University of Digital Sciences**, Tunis
 - 🛡️ &nbsp; Specialized in **Governance, Risk & Compliance** and **IS Audit**
-- 📜 &nbsp; **ISO/IEC 27001 Lead Auditor & Lead Implementer** certified
+- 📜 &nbsp; **ISO/IEC 27001 Provisional Auditor & Implementer + ISO/IEC 27005 Provisional Risk Manager** certified
 - 🤖 &nbsp; Exploring **GRC Engineering** — compliance automation
 
 ---
